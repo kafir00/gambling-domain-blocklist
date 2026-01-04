@@ -1,7 +1,4 @@
-# Gambling domains blocklist
-# One domain per line
-# No https://
-# No paths like /casino
-# No wildcards like *.example.com
-
-gamdom.com
+roobet.com
+swisscasinos.ch
+pokerstars.it
+jackpots.ch
